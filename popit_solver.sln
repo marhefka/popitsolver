@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "popit_solver", "popit_solver.csproj", "{2A045CCB-B043-47C7-A57A-A7E4EB8ECD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A045CCB-B043-47C7-A57A-A7E4EB8ECD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A045CCB-B043-47C7-A57A-A7E4EB8ECD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A045CCB-B043-47C7-A57A-A7E4EB8ECD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A045CCB-B043-47C7-A57A-A7E4EB8ECD03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65653F4B-E742-4DCC-8EE7-2C9552B6AADF}
+	EndGlobalSection
+EndGlobal
