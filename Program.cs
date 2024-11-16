@@ -143,7 +143,7 @@ class Program
                         nyerJ = j;
 
                         if (nyerI >= 0)
-                        {
+                        {// ha talalunk nyero lepest, akkor nem keresunk tovabb. igy sokkal hamarabb befejezi az algoritmus, ellenben nem feltetlenul a legkevesebb lepesszamu nyero megoldast adja majd vissza
                             Lepes nyeroLepes;
                             nyeroLepes.Csoport = nyerI;
                             nyeroLepes.X = nyerJ;
